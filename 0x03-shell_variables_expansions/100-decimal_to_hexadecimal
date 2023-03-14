@@ -1,0 +1,2 @@
+#!/bin/bash
+export DECIMAl=$1 | printf '%x\n' $DECIMAL
